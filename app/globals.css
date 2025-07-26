@@ -89,4 +89,5 @@ html {
 /* Ensure immediate scroll reset on navigation */
 body {
   scroll-behavior: auto;
+  overflow-x: hidden;
 }
